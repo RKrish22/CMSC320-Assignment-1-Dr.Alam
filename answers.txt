@@ -10,3 +10,6 @@ Q3: What is the difference between merging and rebasing?
 
 Answer: Both merging and rebasing integrate changes from one branch into another. But merging combines the history of both branches and rebasing creates a linear history of the branches.
 
+Q4: What skills do you hope to improve during this course?
+
+Answer: I would like to improve my skills in Python which is used a lot in data science. I also want to improve my skills in data analysis and data visualization.
