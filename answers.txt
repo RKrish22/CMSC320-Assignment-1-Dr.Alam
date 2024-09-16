@@ -1,3 +1,7 @@
 Q1: Why might be consider using git?
 
 Answer: Helps manage code and data changes when working with a team.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data Science can be applied to the sports field. An example could be sports injuries where there are tons of historical data. You can utilize the past injury data across different sports to discover injury trends to help create injury prevention practices. 
